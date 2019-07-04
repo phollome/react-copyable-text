@@ -1,2 +1,3 @@
 # react-copyable-text
-Created with CodeSandbox
+
+Provide copy to clipboard on click text wrapper.
